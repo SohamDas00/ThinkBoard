@@ -30,16 +30,13 @@ A modern and interactive idea management app built with the **MERN stack**. Crea
 ## 📦 Installation  
 
 ```bash
-# Clone the repository
 git clone https://github.com/your-username/thinkboard.git
 cd thinkboard
 
-# Install dependencies for both frontend & backend
 cd backend && npm install
 cd ../frontend && npm install
 
-# Run backend (from /backend folder)
 npm run dev
 
-# Run frontend (from /frontend folder)
 npm run dev
+npm();
